@@ -1,0 +1,42 @@
+Are you a passionate machine learning enthusiast looking to gain hands-on experience in an innovative and dynamic environment? Look no further! Our company is seeking a highly motivated Machine Learning Intern to join our team in Douglas, Isle of Man. With at least 5 to 15 years of experience and an M.Tech degree, you will be able to work on cutting-edge projects and gain valuable skills. As a Machine Learning Intern, you will have the opportunity to work on a variety of projects and collaborate with top professionals in the field. This is a paid internship with a salary range of $59K to $99K. We also offer benefits such as health insurance, paid time off, and opportunities for growth and development. If you are ready to expand your knowledge and take your career to the next level, apply now! 
+
+ Senior Software Engineer - Databricks India
+
+About the Company:
+Databricks is a leading data and AI infrastructure platform that enables data teams to solve the world's toughest problems and improve business outcomes. We are a team of passionate engineers who strive to provide the best data insights to our customers. We are customer-obsessed and constantly work towards solving technical challenges, while also prioritizing diversity and inclusion in our workplace. Our presence in Bengaluru, India is expanding, and we are looking for a Senior Software Engineer to join our growing team.
+
+Role and Responsibilities:
+As a Senior Software Engineer at Databricks India, you will have the opportunity to work across various domains, including backend, distributed data systems, and full stack development. Your responsibilities will include:
+
+Backend:
+- Design, develop and maintain essential service platforms that span from product to infrastructure.
+- Solve challenges related to distributed systems, at-scale service architecture, and monitoring.
+- Develop reliable and high-performance services and client libraries for data storage and access.
+- Build scalable services and data pipelines to power our pricing infrastructure that serves millions of users.
+
+DDS (Distributed Data Systems):
+- Work on various projects related to Apache Spark, Data Plane Storage, Delta Lake, Delta Pipelines, and Performance Engineering.
+
+Full Stack:
+-
+
+
+
+Position: Machine Learning Intern 
+Location: Douglas, Isle of Man 
+Salary Range: $59K-$99K 
+Years of Experience: 5-15 
+Education: M.Tech 
+
+We are currently seeking a highly motivated and enthusiastic individual to join our dynamic team as a Machine Learning Intern. As a Machine Learning Intern, you will have the opportunity to work with cutting-edge technology and contribute to the development of innovative products and features.
+
+About the Company: 
+
+Databricks is a leading data and AI company, serving more than 10,000 organizations worldwide. We are trusted by top companies such as Comcast, Condé Nast, and Grammarly, and over 50% of the Fortune 500, to unify and democratize data, analytics, and AI. Our headquarters are located in San Francisco, with offices around the globe. We were founded by the original creators of Lakehouse, Apache Spark™, Delta Lake, and MLflow. To learn more, follow Databricks on Twitter, LinkedIn, and Facebook.
+
+Responsibilities:
+
+- Collaborate with a team of software engineers and leaders to develop and enhance our machine learning capabilities.
+- Work closely with Product Managers, Sales, and Customers to understand and meet their needs and develop solutions.
+- Utilize
+
