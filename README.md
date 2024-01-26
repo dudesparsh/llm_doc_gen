@@ -16,6 +16,7 @@ The document generator aims to create a system that can generate documents based
 ## Current Feature
 
 - Works for OpenAI models
+- Currently use FAISS for vector Databases and Langchain for language generation
 - Custom Job Description generator module/prompt is implemented
 - Inputs are default, with console extendibility coming soon
 - Python based running - Front-end will be added soon
