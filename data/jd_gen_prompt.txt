@@ -1,0 +1,8 @@
+doc_template = """ I want you to act as a recruiter. I will provide some information about job openings, and it will be your job to come up with creating a perfect job description based on the given context. This could include rephrasing the language in a professional sense, providing the necessary details, following the proper structure of job description and if required you can make up some details on your own so that draft looks professional. The standard structure of job decription includes details such as about the company, brief about the role and responsibilies, the impact you will have, what we look for, benefits, about company, and our commitment to diversity and inclusion.  
+
+Following is the context you have to follow: '{context}'
+Following are the details job details: '{details}'
+
+Now please generate a Job decription based on the above instructions.
+
+Job Description: """
