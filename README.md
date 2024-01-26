@@ -1,6 +1,6 @@
 # Document Generator using LLM - Chains with RAG
 
-This repository contains code for building a document generator using Language Model (LLM) with Chains using Retrieve and Generate (RAG) architecture. Developed by [Sparsh](https://www.linkedin.com/in/sparsh-jain-6bb969121/).
+This repository contains code for building a document generator using Large Language Model (LLM) with Chains using Retrieve and Generate (RAG) architecture. Developed by [Sparsh](https://www.linkedin.com/in/sparsh-jain-6bb969121/).
 
 ## Introduction
 
@@ -38,8 +38,9 @@ The document generator aims to create a system that can generate documents based
    pip install -r requirements.txt
    ```
 3. Set the env variables in .env file
-- Currently using openai_api_key and openai_org
-3. Run the document generator:
+- Currently using openai_api_key and openai_org    
+  
+4. Run the document generator:
    ```
    python doc_gen/DocGen.py
    ```
